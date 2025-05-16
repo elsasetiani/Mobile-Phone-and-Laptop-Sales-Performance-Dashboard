@@ -10,7 +10,7 @@ This dashboard is built using **Microsoft Excel** to analyze the sales performan
 - Interactivity with **slicer**, **pivot table**, and **pivot chart**
 
 ## 🛠 Tools Used
--Microsoft Excel
+- Microsoft Excel
 - Pivot Tables & Pivot Charts
 - Slicer
 - Conditional Formatting
