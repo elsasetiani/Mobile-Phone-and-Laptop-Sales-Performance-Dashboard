@@ -19,7 +19,7 @@ Dashboard ini dibuat menggunakan **Microsoft Excel** untuk menganalisis performa
 
 
 ## 📷 Preview Dashboard
-![Preview Dashboard](preview.png)
+![Preview Dashboard](preview.png.jpg)
 
 
 ## 📌 Insight Utama
